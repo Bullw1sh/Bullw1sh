@@ -11,3 +11,4 @@ Bullw1sh/Bullw1sh is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 I'm interesting with blockchain developer, but i don't know the first i start to build something or learning some language like python or golang. Which the best for newbie like me?
+I'm using ubuntu for now, but i don't know for what just happy to explore another operation system and maybe for virus resistance not like a windows OS
